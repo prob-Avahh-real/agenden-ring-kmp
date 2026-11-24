@@ -7,14 +7,14 @@ agenden-ring-kmp An agenda/reminder ring app built with Kotlin Multiplatform + C
 Kotlin Multiplatform / Compose 工程（已归档）
 
 - 移动端：需要
-- 智能硬件：需要
+- 智能硬件：可选（圆形日程环 Canvas UI，未接外部穿戴硬件）
 
 ## 目标平台
 
 | 平台 | 方式 | 产出 |
 |------|------|------|
 | 移动端 | KMP | APK / 既有 iOS |
-| 手表 / 戒指 / 传感器 | 按原设计 | — |
+| 智能硬件 | 可选 | 暂未接入外部硬件 |
 
 ## 技术栈信号
 
